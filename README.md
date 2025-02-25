@@ -43,7 +43,8 @@ Below are some screenshots of the key pages in the **Student Management System**
 
 ### User Information Page
 ![User Information](/Student-Management-System/Screenshots/User_info-page.png)
-5. ### File Structure
+
+### File Structure
 ```📁 project1/
 ├── 📁 images/
 │   ├── image1.jpg
