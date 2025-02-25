@@ -17,7 +17,7 @@
 ### How to Run the Project:
 1. Import the database.sql file into phpMyAdmin.
 2. Modify the database connection settings in the PHP files.
-3. Open http://localhost/Student-management-System/index in your browser.
+3. Open http://localhost/Student-Management-System/index in your browser.
 4. ### File Structure
 ```📁 project1/
 ├── 📁 images/
