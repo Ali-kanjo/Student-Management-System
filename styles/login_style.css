@@ -1,0 +1,102 @@
+/* Reset */
+body, h1, p, input, form {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f4f6;
+    background-image: url('/project1/images/image2.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333;
+}
+.container {
+    text-align: center;
+    background: #ffffff;
+    padding: 30px 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+}
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #007bff;
+}
+p {
+    margin-bottom: 20px;
+    color: #555;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+input:focus {
+    border-color: #007bff;
+    outline: none;
+}
+.form-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+.btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+.submit {
+    background: #007bff;
+}
+.submit:hover {
+    background: #0056b3;
+}
+.reset {
+    background: #dc3545;
+}
+.reset:hover {
+    background: #c82333;
+}
+/* Styling for the link to return to the home page */
+.home-link {
+    margin-top: 10px; /* Additional top spacing between buttons */
+    text-align: center;
+}
+/* General styling for additional buttons */
+.log {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    background: #007bff; /* Button color */
+    color: #fff; /* Text color */
+    border-radius: 5px;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer;
+}
+.log:hover {
+    background: #0056b3; /* Hover effect */
+}
+.message {
+    color: black;
+    background-color: rgb(255, 93, 93);
+    text-align: center;
+    font-size: 16px;
+    margin-top: 10px;
+}

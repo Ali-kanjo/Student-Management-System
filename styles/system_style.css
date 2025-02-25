@@ -1,0 +1,106 @@
+/* Reset */
+body, h1, p, table, th, td, form, a {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f4f6;
+    background-image: url('/project1/images/user_foto.jpg');   
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: #333;
+}
+.container {
+    background: #ffffff;
+    padding: 30px 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 900px;
+    width: fit-content; /* Adjusts to content */
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    font-size: 28px;
+    color: #007bff;
+    margin-bottom: 20px;
+}
+p {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #555;
+}
+.form-buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+form, a {
+    text-decoration: none;
+}
+.btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    display: inline-block;
+    text-align: center;
+}
+.submit {
+    background: #28a745;
+}
+.submit:hover {
+    background: #1e7e34;
+}
+.info {
+    background: #007bff;
+}
+.info:hover {
+    background: #0056b3;
+}
+.home {
+    background: #ffc107;
+}
+.home:hover {
+    background: #e0a800;
+}
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: auto;
+}
+.table th, .table td {
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 6px;
+}
+.table th {
+    background: #007bff;
+    color: #fff;
+}
+.tr1 {
+    background: #b3f0f0;
+}
+.tr2 {
+    background: #cae2de;
+}
+.delete {
+    background: #FF6F61;
+}
+.delete:hover {
+    background: #c82333;
+}
+.update {
+    background: #007BFF;
+}
+.update:hover {
+    background: #0056b3;
+}
