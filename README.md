@@ -18,31 +18,8 @@
 1. Import the database.sql file into phpMyAdmin.
 2. Modify the database connection settings in the PHP files.
 3. Open http://localhost/Student-Management-System/index in your browser.
-4. ### File Structure
-```📁 project1/
-├── 📁 images/
-│   ├── image1.jpg
-│   └── image2.jpg
-├── 📁 login_sign/
-│   ├── user_login.php
-│   └── user_signup.php
-├── 📁 styles/
-│   ├── add_style.css
-│   ├── index_style.css
-│   ├── login_style.css
-│   ├── sign_style.css
-│   ├── system_style.css
-│   ├── update_style.css
-│   └── user_style.css
-├── 📁 system/
-│   ├── student_add.php
-│   ├── student_delete.php
-│   ├── student_system.php
-│   ├── student_update_info.php
-│   └── user_information.php
-└── index.php```
 
-## Screenshots
+5. ## Screenshots
 
 Below are some screenshots of the key pages in the **Student Management System**:
 
@@ -66,3 +43,27 @@ Below are some screenshots of the key pages in the **Student Management System**
 
 ### User Information Page
 ![User Information](/Student-Management-System/Screenshots/User_info-page.png)
+5. ### File Structure
+```📁 project1/
+├── 📁 images/
+│   ├── image1.jpg
+│   └── image2.jpg
+├── 📁 login_sign/
+│   ├── user_login.php
+│   └── user_signup.php
+├── 📁 styles/
+│   ├── add_style.css
+│   ├── index_style.css
+│   ├── login_style.css
+│   ├── sign_style.css
+│   ├── system_style.css
+│   ├── update_style.css
+│   └── user_style.css
+├── 📁 system/
+│   ├── student_add.php
+│   ├── student_delete.php
+│   ├── student_system.php
+│   ├── student_update_info.php
+│   └── user_information.php
+└── index.php```
+
