@@ -41,3 +41,28 @@
 │   ├── student_update_info.php
 │   └── user_information.php
 └── index.php```
+
+## Screenshots
+
+Below are some screenshots of the key pages in the **Student Management System**:
+
+### Home Page
+![Home Page](/Student-Management-System/Screenshots/home_page.png)
+
+### Login Page
+![Login Page](/Student-Management-System/Screenshots/login_page.png)
+
+### Signup Page
+![Signup Page](/Student-Management-System/Screenshots/signup_page.png)
+
+### Student Management Page
+![Student Management](/Student-Management-System/Screenshots/student_management_page.png)
+
+### Add Student Page
+![Add Student](/Student-Management-System/Screenshots/add_student_page.png)
+
+### Update Student Info Page
+![Update Student Info](/Student-Management-System/Screenshots/update_student_info_page.png)
+
+### User Information Page
+![User Information](/Student-Management-System/Screenshots/User_info-page.png)
