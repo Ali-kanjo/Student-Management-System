@@ -24,7 +24,7 @@
 Below are some screenshots of the key pages in the **Student Management System**:
 
 #### Home Page
-![Home Page](/Student-Management-System/Screenshots/home_page.png)
+![Home Page](/Screenshots/home_page.png)
 
 #### Login Page
 ![Login Page](/Student-Management-System/Screenshots/login_page.png)
